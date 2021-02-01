@@ -1,0 +1,13 @@
+C:\Users\user one\source\repos\Add-Substract\Add-Substract\bin\Debug\netcoreapp3.1\Add-Substract.exe
+C:\Users\user one\source\repos\Add-Substract\Add-Substract\bin\Debug\netcoreapp3.1\Add-Substract.deps.json
+C:\Users\user one\source\repos\Add-Substract\Add-Substract\bin\Debug\netcoreapp3.1\Add-Substract.runtimeconfig.json
+C:\Users\user one\source\repos\Add-Substract\Add-Substract\bin\Debug\netcoreapp3.1\Add-Substract.runtimeconfig.dev.json
+C:\Users\user one\source\repos\Add-Substract\Add-Substract\bin\Debug\netcoreapp3.1\Add-Substract.dll
+C:\Users\user one\source\repos\Add-Substract\Add-Substract\bin\Debug\netcoreapp3.1\Add-Substract.pdb
+C:\Users\user one\source\repos\Add-Substract\Add-Substract\obj\Debug\netcoreapp3.1\Add-Substract.csprojAssemblyReference.cache
+C:\Users\user one\source\repos\Add-Substract\Add-Substract\obj\Debug\netcoreapp3.1\Add-Substract.AssemblyInfoInputs.cache
+C:\Users\user one\source\repos\Add-Substract\Add-Substract\obj\Debug\netcoreapp3.1\Add-Substract.AssemblyInfo.cs
+C:\Users\user one\source\repos\Add-Substract\Add-Substract\obj\Debug\netcoreapp3.1\Add-Substract.csproj.CoreCompileInputs.cache
+C:\Users\user one\source\repos\Add-Substract\Add-Substract\obj\Debug\netcoreapp3.1\Add-Substract.dll
+C:\Users\user one\source\repos\Add-Substract\Add-Substract\obj\Debug\netcoreapp3.1\Add-Substract.pdb
+C:\Users\user one\source\repos\Add-Substract\Add-Substract\obj\Debug\netcoreapp3.1\Add-Substract.genruntimeconfig.cache
